@@ -1,0 +1,23 @@
+{
+  "name": "module3",
+  "version": "0.0.1",
+  "description": "my first node application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeCrew-CodeSchool/React_01.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "dij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeCrew-CodeSchool/React_01/issues"
+  },
+  "homepage": "https://github.com/CodeCrew-CodeSchool/React_01#readme"
+}

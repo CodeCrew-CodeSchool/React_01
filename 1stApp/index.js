@@ -1,0 +1,1 @@
+console.log("class! Let's welcome Alonso!");
