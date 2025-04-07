@@ -1,3 +1,18 @@
+# Challenge
+
+Build a React app by using npx create-next-app
+
+It is recommend you say No to Typescript for now. ![(see screenshot for all recommended build options)](image.png "create-next-app options")
+
+1. In your src folder (wherever you find page.js), create a javascript file.
+1. In this file make a component that returns at least 3 elements. Be creative.
+1. Make sure you export your component
+1. In page.js, import your component at the top of the file.
+1. In the return statement for the Home component, remove any existing code in the <main> element.
+1. Call your component
+1. In the terminal run npm run dev
+1. Show n Tell @ 11:30
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
